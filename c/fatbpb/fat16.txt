@@ -1,0 +1,22 @@
+Reference output (by Prof. Bruno O. Silvestre)
+
+BS_jmpBoot: 0xEB 0x3C 0x90
+BS_OEMName: mkfs.fat
+BPB_BytsPerSec: 512
+BPB_SecPerClus: 2
+BPB_RsvdSecCnt: 1
+BPB_NumFATs: 2
+BPB_RootEntCnt: 512
+BPB_TotSec16: 10240
+BPB_Media: 0xF8
+BPB_FATSz16: 20
+BPB_SecPerTrk: 32
+BPB_NumHeads: 64
+BPB_HiddSec: 0
+BPB_TotSec32: 0
+BS_DrvNum: 0x80
+BS_Reserved1: 0x0
+BS_BootSig: 0x29
+BS_VolID: 0x5A 0xB9 0xEA 0x25
+BS_VolLab: MYFAT      
+BS_FilSysType: FAT16   
